@@ -1,0 +1,11 @@
+import turtle
+sc=turtle.bgcolor("yellow")
+board=turtle.Turtle()
+board.forward(400)
+board.right(90)
+board.forward(200)
+board.right(90)
+board.forward(400)
+board.right(90)
+board.forward(200)
+turtle.done()
